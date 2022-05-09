@@ -1,4 +1,9 @@
-Complete the implementation of your Wiki encyclopedia. You must fulfill the following requirements:
+# Description
+This is the second CS50 task.
+
+### Tasks
+Complete the implementation of your Wiki encyclopedia.\
+You must fulfill the following requirements:
 
 - Entry Page: Visiting /wiki/TITLE, where TITLE is the title of an encyclopedia entry, should render a page that displays the contents of that encyclopedia entry.
     - The view should get the content of the encyclopedia entry by calling the appropriate util function.
